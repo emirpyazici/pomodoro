@@ -24,5 +24,6 @@ If you'd like to contribute, please fork the repository and make changes as you'
 
 ## 📜 **License**  
 This project is open source and available under the MIT License.  
+## **image**
 ![pomodorosite](https://github.com/emirpyazici/pomodoro-website/assets/142224791/d9d10690-1dfe-4e68-b37c-120da751255d)
 
