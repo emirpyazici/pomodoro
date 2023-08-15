@@ -1,4 +1,4 @@
-# 🍅 **Pomodoro Website Project**  
+#  **Pomodoro Website Project**  
 Welcome to the Pomodoro Website! 🎉 This project offers a web-based pomodoro timer to help you manage your time efficiently and boost productivity.
 
 ## 🌟 **Features**  
